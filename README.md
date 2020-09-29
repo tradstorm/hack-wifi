@@ -35,7 +35,7 @@ pkg install python2
 
 pip2 install --upgrade pip
 
-git clone https://github.com/shubhamggosai/hack-wifi
+git clone https://github.com/ShuBhamg0sain/hack-wifi
 
 cd hack-wifi
 
