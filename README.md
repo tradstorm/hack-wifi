@@ -35,9 +35,9 @@ pkg install python2
 
 pip2 install --upgrade pip
 
-git clone https://github.com/shubhamggosai /Fbbrute
+git clone https://github.com/shubhamggosai/hack-wifi
 
-cd Fbbrute
+cd hack-wifi
 
 pip2 install requests 
 
