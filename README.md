@@ -30,6 +30,12 @@ pip2 install mechanize
 
 python Shubham.py
 
+Or 
+
+chmod +x wifi-hacker.sh
+
+./wifi-hacker.sh
+
 
 
 
