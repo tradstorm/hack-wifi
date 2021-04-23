@@ -24,17 +24,16 @@ git clone https://github.com/ShuBhamg0sain/hack-wifi
 
 cd hack-wifi
 
+chmod +x wifi-hacker.sh
+
 pip2 install requests 
 
 pip2 install mechanize
 
 python Shubham.py
 
-Or 
 
-chmod +x wifi-hacker.sh
 
-./wifi-hacker.sh
 
 
 
