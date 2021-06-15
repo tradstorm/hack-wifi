@@ -8,7 +8,6 @@ Find me....for username and password
 ### installation
 
 
-
 pkg update 
 
  pkg upgrade 
